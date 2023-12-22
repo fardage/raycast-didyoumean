@@ -20,6 +20,6 @@ This Raycast extension allows you to automatically correct selected text using t
 
 ## Acknowledgements
 
-We would like to thank the `words/google-did-you-mean` repository/library for providing the core functionality used in this Raycast extension. Their work has greatly improved the accuracy of auto-correct functionality.
+Like to thank the `words/google-did-you-mean` repository/library for providing the core functionality used in this Raycast extension. Their work has greatly improved the accuracy of auto-correct functionality.
 
 Repository/Library: [words/google-did-you-mean](https://github.com/words/google-did-you-mean)
